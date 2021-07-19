@@ -1,0 +1,10 @@
+[package]
+name = "blink"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sysinfo = "0.19.2"
+syslog = "5.0.0"
